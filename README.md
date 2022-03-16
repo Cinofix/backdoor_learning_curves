@@ -96,7 +96,7 @@ By default we used `torch.nn.DataParallel` to allow multi-gpus computations. How
 
 ## Explaining Backdoor Predictions
 
-With these experiments, we aim to interpret the decision function of the poisoned classifiers. To replicate our analysis with MNIST and CIFAR10, use the following commands:
+With these experiments, we aim to interpret the decision function of the poisoned classifiers. To replicate our analysis with MNIST, CIFAR10, and Imagenette, use the following commands:
 
 ```bash
 python src/test/explain_mnist.py 
