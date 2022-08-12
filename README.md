@@ -1,7 +1,7 @@
 
 # Backdoor Learning Curves: Explaining BackdoorPoisoning Beyond Influence Functions
 
-Here we provide the code used to run the experiments analyzed in "Backdoor Learning Curves: Explaining BackdoorPoisoning Beyond Influence Functions" (submitted to Neurocomputing Journal).
+Here we provide the code used to run the experiments analyzed in "Backdoor Learning Curves: Explaining BackdoorPoisoning Beyond Influence Functions" (submitted to Computers & Security Journal).
 
 Here is a conceptual figure of our work. In summary, when decreasing the regularization parameter $\lambda$, the classifier learns the backdoor faster.
 
